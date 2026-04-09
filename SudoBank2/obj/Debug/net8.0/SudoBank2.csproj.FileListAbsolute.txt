@@ -1,0 +1,14 @@
+C:\Users\sntan\source\repos\SudoBank2\SudoBank2\bin\Debug\net8.0\SudoBank2.exe
+C:\Users\sntan\source\repos\SudoBank2\SudoBank2\bin\Debug\net8.0\SudoBank2.deps.json
+C:\Users\sntan\source\repos\SudoBank2\SudoBank2\bin\Debug\net8.0\SudoBank2.runtimeconfig.json
+C:\Users\sntan\source\repos\SudoBank2\SudoBank2\bin\Debug\net8.0\SudoBank2.dll
+C:\Users\sntan\source\repos\SudoBank2\SudoBank2\bin\Debug\net8.0\SudoBank2.pdb
+C:\Users\sntan\source\repos\SudoBank2\SudoBank2\obj\Debug\net8.0\SudoBank2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sntan\source\repos\SudoBank2\SudoBank2\obj\Debug\net8.0\SudoBank2.AssemblyInfoInputs.cache
+C:\Users\sntan\source\repos\SudoBank2\SudoBank2\obj\Debug\net8.0\SudoBank2.AssemblyInfo.cs
+C:\Users\sntan\source\repos\SudoBank2\SudoBank2\obj\Debug\net8.0\SudoBank2.csproj.CoreCompileInputs.cache
+C:\Users\sntan\source\repos\SudoBank2\SudoBank2\obj\Debug\net8.0\SudoBank2.dll
+C:\Users\sntan\source\repos\SudoBank2\SudoBank2\obj\Debug\net8.0\refint\SudoBank2.dll
+C:\Users\sntan\source\repos\SudoBank2\SudoBank2\obj\Debug\net8.0\SudoBank2.pdb
+C:\Users\sntan\source\repos\SudoBank2\SudoBank2\obj\Debug\net8.0\SudoBank2.genruntimeconfig.cache
+C:\Users\sntan\source\repos\SudoBank2\SudoBank2\obj\Debug\net8.0\ref\SudoBank2.dll
